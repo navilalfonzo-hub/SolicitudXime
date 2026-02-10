@@ -1,0 +1,50 @@
+body {
+    background-color: #10b5a4; /* El verde turquesa de la imagen */
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 40px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+h1, h2 {
+    color: #1b363c; /* Azul oscuro para los títulos */
+    font-weight: bold;
+}
+
+/* Tarjetas tipo Dashboard (las negras de la imagen) */
+.card {
+    background-color: #000000;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 20px 0;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    color: white;
+}
+
+.kpi-value {
+    font-size: 3em;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.kpi-label {
+    color: #10b5a4;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+/* Botón naranja "Hablemos" */
+.btn-cta {
+    background-color: #ec8070;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
