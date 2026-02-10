@@ -1,54 +1,30 @@
-# Informe Ejecutivo: Proyecto de Prospección ISBEL
-**Periodo:** Agosto 2025 - Febrero 2026  
-**Estado:** Cierre de Fase 1 / Propuesta de Extensión
-
+---
+layout: default
 ---
 
-## 📈 Resumen de Resultados
-A pesar de los desafíos estructurales, se logró establecer una base sólida en mercados estratégicos.
+<link rel="stylesheet" href="./assets/style.css">
 
-| Métrica | Resultado |
-| :--- | :--- |
-| **Reuniones Efectivas** | 13 |
-| **Compromiso Inicial** | 30 |
-| **Porcentaje de Cumplimiento** | **43.33%** |
-| **Principales Industrias** | Servicios Financieros, Tecnología, Manufactura y Educación |
-| **Países Líderes** | República Dominicana, Perú y Uruguay |
+<div class="container">
+    <img src="https://mti-selling.com/wp-content/uploads/2021/05/logo-mti-selling.png" width="150">
 
-> **Nota de Recuperación:** En febrero se observa una reactivación positiva, igualando los niveles más altos de actividad del proyecto (septiembre/noviembre).
+    <h1>Crea relaciones de confianza y vende más</h1>
+    <p>#1 EN LATINOAMERICA</p>
 
----
+    <div class="card">
+        <span class="kpi-value">+43%</span><br>
+        <span class="kpi-label">Cumplimiento de Metas</span>
+        <p>13 Reuniones Efectivas de 30 proyectadas.</p>
+    </div>
 
-## 🔍 1. Circunstancias que Impactaron los Resultados
-El cumplimiento del objetivo responde a factores que deben ajustarse para una fase de escalabilidad:
+    <h2>Circunstancias que Impactaron</h2>
+    <ul>
+        <li><b>Blacklist:</b> Reducción de +300 empresas.</li>
+        <li><b>Territorios:</b> Baja madurez digital en RD, UY y PR.</li>
+    </ul>
 
-### ⚠️ Limitaciones de Mercado y Data
-* **Reducción de Universo:** Blacklist de +300 empresas no informada inicialmente.
-* **Madurez Digital:** Territorios como RD, Uruguay y PR requirieron mayor tiempo de maduración.
-
-### ⚙️ Fricción Operativa
-* **Desfase Temporal:** Inicio tardío en agosto y parón natural de diciembre/enero.
-* **Alineación Interna:** Falta de feedback sobre reuniones y duplicidad con cuentas activas de KAMs.
-* **Gestión de Citas:** Riesgo de "No-show" por derivaciones de último minuto sin traspaso formal de agenda.
-* **Curva Técnica:** Necesidad de especialización técnica en Service Lines y ajustes en guiones de *Discovery*.
-
----
-
-## 🚀 2. Sugerencias para Mejora y Extensión
-Para la siguiente etapa, proponemos evolucionar hacia un modelo de **Valor y Alineación**:
-
-### A. Sinceramiento de KPIs
-Definir si el éxito se mide por **volumen (Pipeline)** o **calidad (Oportunidades próximas a cierre)**.
-
-### B. Optimización Operativa (Outsourcing MTI)
-* **Contenido:** MTI puede absorber la creación de material audiovisual y contenido ABM.
-* **Discovery Delegado:** Gestión total del primer contacto técnico por MTI antes de pasar el lead al KAM.
-
-### C. Nuevos Protocolos de Éxito
-1. **Protocolo de "Hand-off" Obligatorio:** Confirmación del KAM 24h antes o reasignación automática del prospecto.
-2. **Actualización de Blacklist:** Revisión quincenal dinámica para evitar roces comerciales.
-3. **Capacitación Cruzada:** Sesiones técnicas mensuales entre Service Lines y equipo de prospección.
-4. **Incentivo por Feedback:** Priorización de entrega de leads basada en la carga de feedback en CRM.
-
----
-*Generado por MTI Selling - 2026*
+    <div class="card" style="background-color: #1b363c;">
+        <h2>Sugerencias de Mejora</h2>
+        <p>Sinceramiento de KPIs y optimización de carga operativa con MTI.</p>
+        <a href="#" class="btn-cta">Ver Propuesta Completa</a>
+    </div>
+</div>
